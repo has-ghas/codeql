@@ -1,0 +1,5 @@
+name: codeql/php-downgrades
+groups: php
+downgrades: .
+library: true
+warnOnImplicitThis: true
